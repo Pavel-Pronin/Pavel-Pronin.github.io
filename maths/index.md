@@ -6,9 +6,7 @@ date: 2014-04-30
 
 <h1> {{page.title}} </h1>
 
-<!-- <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
- -->
-
+<!-- 
 you can [download pdf](https://pavel-pronin.github.io/assets/Continuity.pdf) here.
 
 
@@ -18,3 +16,4 @@ you can [download pdf](https://pavel-pronin.github.io/assets/Continuity.pdf) her
 Well. Finally got around to putting this old website together. 
 Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. 
 It actually is a lot easier than I thought it was going to be.
+ -->
