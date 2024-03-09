@@ -9,10 +9,10 @@ date: 2014-04-30
 <!-- <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
  -->
 
-you can [download pdf](https://pavel-pronin.github.io/_pdfs/Continuity.pdf) here.
+you can [download pdf](https://pavel-pronin.github.io/pdfs/Continuity.pdf) here.
 
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Continuity.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/Continuity.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 Well. Finally got around to putting this old website together. 
